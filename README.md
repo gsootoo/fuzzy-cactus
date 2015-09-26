@@ -4,4 +4,3 @@
  
 * More Markdown testing
 * and another test
-## etc
